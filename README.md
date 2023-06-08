@@ -1,16 +1,7 @@
 # Flutter Denver Nuggets Logo Design
 
-A new Flutter project.
+Flutter tutorial for beginners on UI Design showing how you can complement colors and designs with images, using the logo of the NBA Denver Nuggets and giving you tips on how to design an application that users really like. This will help you as you continue on your journey to creating mobile and web based applications. The IDE used is Visual Studio Code. This Tutorial is for beginners.
 
-## Getting Started
+Watch the tutorial here: https://www.youtube.com/watch?v=wjOdyzMBbAc
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Subscribe to the channel
